@@ -1,6 +1,3 @@
-JDBC Changelog
-==============
-
 .. csv-table::
     :header: "Client Version", "Changes", "Description"
     :delim: |
