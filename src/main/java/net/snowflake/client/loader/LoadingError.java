@@ -26,7 +26,7 @@ public class LoadingError
 
     ERROR, LINE, CHARACTER, BYTE_OFFSET, CATEGORY, CODE,
     SQL_STATE, COLUMN_NAME, ROW_NUMBER,
-    ROW_START_LINE, REJECTED_RECORD
+    ROW_START_LINE
   }
 
   private String _stage;
